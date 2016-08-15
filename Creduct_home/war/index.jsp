@@ -9,6 +9,7 @@
 <body>
 <%
 	out.print("hello, google app engine.");
+	out.print("hello, google app engine.");
 %>
 </body>
 </html>
