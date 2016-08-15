@@ -1,0 +1,3 @@
+# Module creduct_home
+# RPC service class, partial path of RPC policy file
+com.creduct.home.client.GreetingService, 563191294F4D24B8592F1B5FD5608618.gwt.rpc

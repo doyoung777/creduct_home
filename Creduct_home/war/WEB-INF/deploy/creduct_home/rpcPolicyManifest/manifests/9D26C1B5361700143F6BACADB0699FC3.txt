@@ -1,0 +1,2 @@
+serviceClass: com.creduct.home.client.GreetingService
+path: 563191294F4D24B8592F1B5FD5608618.gwt.rpc
